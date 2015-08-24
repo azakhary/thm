@@ -1,0 +1,309 @@
+
+pack.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10000ugol
+  rotate: false
+  xy: 574, 487
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+10000ugol2
+  rotate: false
+  xy: 574, 385
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+10000ugol3
+  rotate: false
+  xy: 676, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+10000ugol4
+  rotate: false
+  xy: 676, 407
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+100012
+  rotate: false
+  xy: 778, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+100013
+  rotate: false
+  xy: 778, 407
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+100014
+  rotate: false
+  xy: 880, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+100015
+  rotate: false
+  xy: 880, 407
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+100021
+  rotate: false
+  xy: 982, 509
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+100023
+  rotate: false
+  xy: 982, 407
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Platform
+  rotate: false
+  xy: 1809, 590
+  size: 100, 129
+  orig: 100, 129
+  offset: 0, 0
+  index: -1
+arrowimg
+  rotate: false
+  xy: 1885, 866
+  size: 148, 153
+  orig: 148, 153
+  offset: 0, 0
+  index: -1
+tutorialArrow
+  rotate: false
+  xy: 1885, 866
+  size: 148, 153
+  split: 0, 0, 103, 42
+  orig: 148, 153
+  offset: 0, 0
+  index: -1
+border1
+  rotate: false
+  xy: 2, 705
+  size: 637, 314
+  orig: 637, 314
+  offset: 0, 0
+  index: -1
+border3
+  rotate: false
+  xy: 641, 815
+  size: 650, 204
+  orig: 650, 204
+  offset: 0, 0
+  index: -1
+border4
+  rotate: false
+  xy: 1476, 389
+  size: 86, 466
+  orig: 86, 466
+  offset: 0, 0
+  index: -1
+border5
+  rotate: false
+  xy: 2, 41
+  size: 322, 340
+  orig: 322, 340
+  offset: 0, 0
+  index: -1
+border6
+  rotate: false
+  xy: 1293, 857
+  size: 590, 162
+  orig: 590, 162
+  offset: 0, 0
+  index: -1
+border7
+  rotate: false
+  xy: 641, 611
+  size: 458, 202
+  orig: 458, 202
+  offset: 0, 0
+  index: -1
+border8
+  rotate: false
+  xy: 491, 18
+  size: 75, 363
+  orig: 75, 363
+  offset: 0, 0
+  index: -1
+bubble
+  rotate: false
+  xy: 2, 2
+  size: 102, 37
+  split: 31, 29, 13, 13
+  orig: 102, 37
+  offset: 0, 0
+  index: -1
+circkle
+  rotate: false
+  xy: 1650, 709
+  size: 123, 146
+  orig: 123, 146
+  offset: 0, 0
+  index: -1
+cloud
+  rotate: false
+  xy: 1885, 736
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 1321, 579
+  size: 153, 276
+  orig: 153, 276
+  offset: 0, 0
+  index: -1
+health
+  rotate: false
+  xy: 1293, 849
+  size: 1, 6
+  orig: 1, 6
+  offset: 0, 0
+  index: -1
+laba
+  rotate: false
+  xy: 326, 12
+  size: 163, 369
+  orig: 163, 369
+  offset: 0, 0
+  index: -1
+minioncross
+  rotate: false
+  xy: 1564, 607
+  size: 84, 248
+  orig: 84, 248
+  offset: 0, 0
+  index: -1
+minionfat
+  rotate: false
+  xy: 1775, 721
+  size: 108, 134
+  orig: 108, 134
+  offset: 0, 0
+  index: -1
+minioninq
+  rotate: false
+  xy: 574, 589
+  size: 57, 114
+  orig: 57, 114
+  offset: 0, 0
+  index: -1
+minionsis
+  rotate: false
+  xy: 1564, 502
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+monsta
+  rotate: false
+  xy: 1084, 483
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 1911, 598
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+plkatforma
+  rotate: false
+  xy: 1101, 585
+  size: 218, 228
+  orig: 218, 228
+  offset: 0, 0
+  index: -1
+portalBase
+  rotate: false
+  xy: 1911, 632
+  size: 103, 102
+  orig: 103, 102
+  offset: 0, 0
+  index: -1
+portalBlue
+  rotate: false
+  xy: 1186, 389
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+portalIn
+  rotate: false
+  xy: 1186, 483
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+portalOr
+  rotate: false
+  xy: 1620, 511
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+portalOut
+  rotate: false
+  xy: 1084, 381
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+repeat
+  rotate: false
+  xy: 2, 383
+  size: 570, 320
+  orig: 570, 320
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 1714, 539
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+splatter1
+  rotate: false
+  xy: 1564, 450
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 106, 7
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+trt1
+  rotate: false
+  xy: 1650, 605
+  size: 157, 102
+  orig: 157, 102
+  offset: 0, 0
+  index: -1

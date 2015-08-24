@@ -1,0 +1,3 @@
+include 'desktop', 'core'
+include 'overlap2d-runtime-libgdx'
+project(':overlap2d-runtime-libgdx').projectDir = new File(settingsDir, '../overlap2d/overlap2d-runtime-libgdx')
